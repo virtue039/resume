@@ -1,0 +1,119 @@
+body {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif, "微软雅黑";
+	font-weight: 300;
+}
+
+p {
+	line-height: 1.8;
+}
+
+h2 {
+	color: #008080;
+}
+
+#shichuan {
+	height: 100%;
+}
+#shichuan-photo {
+	text-align: center;
+	margin-bottom: 3vh;
+}
+#shichuan-photo span{
+	vertical-align: center;
+	display: inline-block;
+}
+#shichuan-photo img {
+	vertical-align: center;
+}
+#shichuan-info {
+	margin-bottom: 3vh;
+}
+#clustrmaps-div {
+	margin-top: 5vh;
+	margin-bottom: 3vh;
+	text-align: center;
+}
+#clustrmaps {
+	margin-top: 5vh;
+	margin-bottom: 3vh;
+}
+#space-here {
+	margin-bottom: 8vh;
+}
+.chName {
+	font: 4vw 'Italiana', sans-serif;
+	display: inline;
+}
+
+.egName1 {
+	font: 4vw 'Italiana', sans-serif;
+	display: inline;
+}
+
+.egName2 {
+	font: 1vw 'Italiana', sans-serif;
+	font-weight: 600;
+	color: #ADADAD;
+	display: inline;
+}
+
+.navbar-default {
+	border: 1px solid #ccc;
+	font-size: 13px;
+	line-height: 19px;
+	overflow: auto;
+	padding: 0px;
+	border-radius: 3px;
+	background-color: #F1F1F1;
+	float: none;
+}
+
+.nav li {
+	font-size: 13px;
+	padding: 0px 5px;
+}
+
+.nav li a {
+	padding: 10px 8px;
+}
+
+.noMargin {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.list {
+	padding-left: 0px;
+}
+
+.row {
+	display: inline-block;
+	margin-top: 5px;
+	width: 100%;
+}
+
+#sortByTopic {
+	font-size: 13px;
+    line-height: 19px;
+    font-weight: normal;
+    display: inline;
+    background-color: #FFFFFF;
+}
+
+footer {
+	margin-top: 4vw;
+}
+
+footer p {
+	font-size: 10px;
+    line-height: 1;
+    margin: 5px;
+}
+.in-li-p {
+	margin: 0px;
+}
+.in-li-last-p {
+	margin: 0px;
+	margin-bottom: 15px;
+}
