@@ -3,102 +3,61 @@ body {
 	font-weight: 300;
 }
 
+header{
+	margin-top: 30px;
+    display: block;
+}
+
 p {
-	line-height: 1.8;
+	line-height: 1.6;
+}
+
+.name {
+	font-size: 4vw;
 }
 
 h2 {
-	color: #008080;
+	font-size: 25px;
+	border-bottom: 5px solid #c7c7c7;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	color: rgb(70, 140, 212);
 }
 
-#shichuan {
-	height: 100%;
-}
-#shichuan-photo {
-	text-align: center;
-	margin-bottom: 3vh;
-}
-#shichuan-photo span{
-	vertical-align: center;
-	display: inline-block;
-}
-#shichuan-photo img {
-	vertical-align: center;
-}
-#shichuan-info {
-	margin-bottom: 3vh;
-}
-#clustrmaps-div {
-	margin-top: 5vh;
-	margin-bottom: 3vh;
-	text-align: center;
-}
-#clustrmaps {
-	margin-top: 5vh;
-	margin-bottom: 3vh;
-}
-#space-here {
-	margin-bottom: 8vh;
-}
-.chName {
-	font: 4vw 'Italiana', sans-serif;
-	display: inline;
+.photo{
+	
 }
 
-.egName1 {
-	font: 4vw 'Italiana', sans-serif;
-	display: inline;
+.info {
+	padding: 10px;
+	white-space: pre-line;
+	border-radius: 10px;
+	border-style: solid;
+	background-color: rgb(248,248,248);
+	border-color: rgb(204,204,204);
 }
 
-.egName2 {
-	font: 1vw 'Italiana', sans-serif;
-	font-weight: 600;
-	color: #ADADAD;
-	display: inline;
+section {
+	margin-bottom: 3%;
+	text-align:justify;
+	width: 100%;
+	clear: left; 
 }
 
-.navbar-default {
-	border: 1px solid #ccc;
-	font-size: 13px;
-	line-height: 19px;
-	overflow: auto;
-	padding: 0px;
-	border-radius: 3px;
-	background-color: #F1F1F1;
-	float: none;
+.listhead{
+	font-size: 18px;
 }
 
-.nav li {
-	font-size: 13px;
-	padding: 0px 5px;
+.time{
+	font-size: 18px;
 }
 
-.nav li a {
-	padding: 10px 8px;
-}
 
-.noMargin {
-	margin: 0px;
-	padding: 0px;
-	height: 100%;
-}
-
-.list {
-	padding-left: 0px;
-}
 
 .row {
 	display: inline-block;
-	margin-top: 5px;
 	width: 100%;
-}
-
-#sortByTopic {
-	font-size: 13px;
-    line-height: 19px;
-    font-weight: normal;
-    display: inline;
-    background-color: #FFFFFF;
 }
 
 footer {
@@ -106,14 +65,7 @@ footer {
 }
 
 footer p {
-	font-size: 10px;
-    line-height: 1;
-    margin: 5px;
-}
-.in-li-p {
-	margin: 0px;
-}
-.in-li-last-p {
-	margin: 0px;
-	margin-bottom: 15px;
+	font-size: 15px;
+	line-height: 1;
+	margin: 5px;
 }

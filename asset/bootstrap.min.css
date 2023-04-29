@@ -1392,9 +1392,9 @@ html {
 
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    line-height: 1.42857143;
-    color: #333;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #0f0f0f;
     background-color: #fff
 }
 
@@ -1595,12 +1595,12 @@ h6 small {
 
 .h1,
 h1 {
-    font-size: 36px
+    font-size: 30px
 }
 
 .h2,
 h2 {
-    font-size: 30px
+    font-size: 38px
 }
 
 .h3,
