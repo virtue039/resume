@@ -16,7 +16,7 @@ p {
 	font-size: 4vw;
 }
 
-h2 {
+h2,.h2 {
 	font-size: 25px;
 	border-bottom: 5px solid #c7c7c7;
 	border-top: 0px;
